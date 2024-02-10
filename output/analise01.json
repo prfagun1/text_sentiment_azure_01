@@ -1,0 +1,20 @@
+{
+    "id": "1",
+    "sentiment": "negative",
+    "confidence_scores": {
+        "positive": 0.01,
+        "neutral": 0.04,
+        "negative": 0.95
+    },
+    "sentences": [
+        {
+            "text": "Não recebi o meu pedido",
+            "sentiment": "negative",
+            "confidence_scores": {
+                "positive": 0.01,
+                "neutral": 0.04,
+                "negative": 0.95
+            }
+        }
+    ]
+}
